@@ -1,0 +1,16 @@
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\util\JacksonConfig.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\util\Resources.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\util\RestServiceException.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\util\RestServiceExceptionHandler.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\contact\ContactService.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\contact\ContactRepository.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\contact\UniqueEmailException.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\area\AreaService.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\contact\ContactRestService.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\util\ErrorMessage.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\area\InvalidAreaCodeException.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\area\Area.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\contact\Contact.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\ContactServiceApplication.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\contact\ContactValidator.java
+H:\Masters\Enterprise Middleware\jboss-wfk-quickstarts-2.7.0-NCL201920-RC2\src\main\java\org\jboss\quickstarts\wfk\util\ApiOriginFilter.java
