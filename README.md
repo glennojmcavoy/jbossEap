@@ -1,1 +1,1 @@
-A system to manage the bookings of: flights, hotels and cars.
+A system to manage bookings of: flights, hotels and cars.
